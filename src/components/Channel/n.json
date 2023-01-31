@@ -1,0 +1,308 @@
+[
+    {
+        "kind": "youtube#channelListResponse",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "id": "UCmXmlB4-HJytD7wek0Uo97A",
+                "snippet": {
+                    "title": "JavaScript Mastery",
+                    "description": "Launch your development career with project-based coaching - showcase your skills with practical development experience and land the coding career of your dreams. Check out jsmastery.pro to learn more.\n",
+                    "customUrl": "@javascriptmastery",
+                    "publishedAt": "2018-12-25T10:37:24Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "JavaScript Mastery",
+                        "description": "Launch your development career with project-based coaching - showcase your skills with practical development experience and land the coding career of your dreams. Check out jsmastery.pro to learn more.\n"
+                    },
+                    "country": "HR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUmXmlB4-HJytD7wek0Uo97A"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "25864909",
+                    "subscriberCount": "498000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "92"
+                },
+                "brandingSettings": {
+                    "channel": {
+                        "title": "JavaScript Mastery",
+                        "description": "Launch your development career with project-based coaching - showcase your skills with practical development experience and land the coding career of your dreams. Check out jsmastery.pro to learn more.\n",
+                        "keywords": "\"web development\" javascript reactjs nodejs webdev \"javascript mastery\" \"learn js\"",
+                        "unsubscribedTrailer": "Wn_Kb3MR_cU",
+                        "country": "HR"
+                    },
+                    "image": {
+                        "bannerExternalUrl": "https://yt3.googleusercontent.com/kvYtOOlIxxS5m5nZ7d3EVznB86-hmUlCq-0s_TJHt1uS8eehxj-wEV1aU6vQcFtiQoPAqdQ-"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "id": "UC0K7NlrBvgVPgWLarkdf4cQ",
+                "snippet": {
+                    "title": "Chill Stories",
+                    "description": "",
+                    "customUrl": "@chillstories-wirally",
+                    "publishedAt": "2019-08-30T10:31:22Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2us8jyHajnBdPV-DF-gl5FMcowZlV2oAysF4bus3pC2P4_RWpHZK5a21Z3L1GxpHsN3rh8nZbA=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2us8jyHajnBdPV-DF-gl5FMcowZlV2oAysF4bus3pC2P4_RWpHZK5a21Z3L1GxpHsN3rh8nZbA=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2us8jyHajnBdPV-DF-gl5FMcowZlV2oAysF4bus3pC2P4_RWpHZK5a21Z3L1GxpHsN3rh8nZbA=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Chill Stories",
+                        "description": ""
+                    },
+                    "country": "IN"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU0K7NlrBvgVPgWLarkdf4cQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "25777657",
+                    "subscriberCount": "263000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "163"
+                },
+                "brandingSettings": {
+                    "channel": {
+                        "title": "Chill Stories",
+                        "unsubscribedTrailer": "uHtC8zfz_9Q",
+                        "country": "IN"
+                    },
+                    "image": {
+                        "bannerExternalUrl": "https://yt3.googleusercontent.com/wmAgYqLxkerrTfVCybawnOZ8HVOxZAtJZNMSGaeRVEpWo3AXvBUZn6GirNu9IjRc2EKgn-QclIM"
+                    }
+                }
+            }
+        ]
+    },
+    
+        {
+            "kind": "youtube#searchListResponse",
+            "nextPageToken": "CAUQAA",
+            "regionCode": "DE",
+            "pageInfo": {
+                "totalResults": 1000000,
+                "resultsPerPage": 5
+            },
+            "items": [
+                {
+                    "kind": "youtube#searchResult",
+                    "id": {
+                        "kind": "youtube#video",
+                        "videoId": "XtUHDvyfexs"
+                    },
+                    "snippet": {
+                        "publishedAt": "2023-01-29T21:46:20Z",
+                        "channelId": "UC48rkTlXjRd6pnqqBkdV0Mw",
+                        "title": "CBLOL 2023: 1ª Etapa - Fase de Pontos - Md1 | Semana 2 - Rodada 4",
+                        "description": "CBLOL 2023: 1ª Etapa acontece de 21 de Janeiro a 22 de Abril com transmissões AO VIVO no YouTube e Twitch de CBLOL às ...",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/XtUHDvyfexs/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/XtUHDvyfexs/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/XtUHDvyfexs/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            }
+                        },
+                        "channelTitle": "CBLOL",
+                        "liveBroadcastContent": "none",
+                        "publishTime": "2023-01-29T21:46:20Z"
+                    }
+                },
+                {
+                    "kind": "youtube#searchResult",
+                    "id": {
+                        "kind": "youtube#video",
+                        "videoId": "lDwgs9oIHZ4"
+                    },
+                    "snippet": {
+                        "publishedAt": "2023-01-29T21:27:22Z",
+                        "channelId": "UCqcWNPTUVATZt0Dlr2jV0Wg",
+                        "title": "Soll ich DIR 500€ geben ODER 10 Menschen LEBEN RETTEN? Mois",
+                        "description": "https://www.ourbridge.de/de/helfen-und-kontakt/spenden/ ...",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/lDwgs9oIHZ4/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/lDwgs9oIHZ4/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/lDwgs9oIHZ4/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            }
+                        },
+                        "channelTitle": "Mois",
+                        "liveBroadcastContent": "none",
+                        "publishTime": "2023-01-29T21:27:22Z"
+                    }
+                },
+                {
+                    "kind": "youtube#searchResult",
+                    "id": {
+                        "kind": "youtube#video",
+                        "videoId": "6oEPuoeVNHo"
+                    },
+                    "snippet": {
+                        "publishedAt": "2023-01-29T21:21:52Z",
+                        "channelId": "UCxsk7hqE_CwZWGEJEkGanbA",
+                        "title": "DOORS HOTEL+ UPDATE JUST RELEASED... (ROBLOX)",
+                        "description": "roblox doors hotel+ update finally released ❤️ HELP ME REACH 7000000 SUBSCRIBERS: ...",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/6oEPuoeVNHo/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/6oEPuoeVNHo/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/6oEPuoeVNHo/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            }
+                        },
+                        "channelTitle": "KreekCraft",
+                        "liveBroadcastContent": "none",
+                        "publishTime": "2023-01-29T21:21:52Z"
+                    }
+                },
+                {
+                    "kind": "youtube#searchResult",
+                    "id": {
+                        "kind": "youtube#video",
+                        "videoId": "BwPhpEqDN38"
+                    },
+                    "snippet": {
+                        "publishedAt": "2023-01-29T21:18:00Z",
+                        "channelId": "UC62nFXtc3KNujp9LCPJt-sA",
+                        "title": "Minecraft, pero Fusionamos Mobs!",
+                        "description": "Hemos encontrado una maquina super extraña que nos permite fusionar y combinar a TODOS los MOBS de MINECRAFT!",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/BwPhpEqDN38/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/BwPhpEqDN38/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/BwPhpEqDN38/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            }
+                        },
+                        "channelTitle": "Awita",
+                        "liveBroadcastContent": "none",
+                        "publishTime": "2023-01-29T21:18:00Z"
+                    }
+                },
+                {
+                    "kind": "youtube#searchResult",
+                    "id": {
+                        "kind": "youtube#video",
+                        "videoId": "RaIyRYgXBoM"
+                    },
+                    "snippet": {
+                        "publishedAt": "2023-01-29T20:35:53Z",
+                        "channelId": "UCeOaZhR60vjlVz1DfYWDnaA",
+                        "title": "San Francisco 49ers vs. Philadelphia Eagles Full Highlights 1st QTR| NFL Conference Championship",
+                        "description": "San Francisco 49ers vs. Philadelphia Eagles Full Highlights 1st QTR| NFL Conference Championship.",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/RaIyRYgXBoM/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/RaIyRYgXBoM/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/RaIyRYgXBoM/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            }
+                        },
+                        "channelTitle": "McLinced",
+                        "liveBroadcastContent": "none",
+                        "publishTime": "2023-01-29T20:35:53Z"
+                    }
+                }
+            ]
+        }
+    
+]
